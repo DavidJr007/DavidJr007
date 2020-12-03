@@ -1,6 +1,6 @@
 # Welcome my friend, My name is Dawid Kuczkowicz 👋
 
-## You can ask - How are you? I will show you my friend!
+## How am I? I will show you my friend!
 
 I'm a 23 years old man. I am a graduated student from Cracow University of Economies specializing Controlling. However my career path is directed towards programming. From 2020 I am learning programming, currently I am particularly focused on the Front End. In the future I want to become a Full-Stack Developer.
 
