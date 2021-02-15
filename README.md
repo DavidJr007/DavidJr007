@@ -52,6 +52,8 @@ I am focused on effective and efficient work. I like to look for the meaning of 
 - 🥅 Motto: Be better than you were yesterday
 - ⚡ Fun fact: I love to play squash and work out
 
+## Check my portfolio
+https://davidjr007.github.io/Portfolio/
 
 ## How to contact me
 <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> Facebook: https://www.facebook.com/dawid.kuczkowicz/
